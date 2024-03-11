@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BorisIsmael_GuevaraRamirez_practicaPMDM" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryVariant">@color/yellow</item>
+        <item name="android:statusBarColor">@color/yellow</item>
+    </style>
+
+    <style name="Theme.BorisIsmael_GuevaraRamirez_practicaPMDM" parent="Base.Theme.BorisIsmael_GuevaraRamirez_practicaPMDM" />
+    
+    <style name="App.Custom.Indicator"  parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/blue</item>
+    </style>
+
+</resources>
+
+
